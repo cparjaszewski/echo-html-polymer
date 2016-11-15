@@ -3,7 +3,7 @@
 By using this compoment you can simply apply any unescaped content from external sources:
 
 ```html
-<echo-html html$={{external.unescapted.html.source}}></echo-html>
+<echo-html html$={{external.unescaped.html.source}}></echo-html>
 ```
 
 
